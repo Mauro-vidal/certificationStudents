@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.mauro</groupId>
 	<artifactId>certification</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>certification</name>
 	<description>Projeto utilizado para criar certificações aos estudantes </description>
 	<properties>
